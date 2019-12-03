@@ -1,2 +1,2 @@
 # PROJECT5_WORD_COMPARISON
-data structure hw
+A projects that compares word  - a simple natural language processing 
